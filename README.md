@@ -66,5 +66,5 @@ Further testing with real repayment and default data would be needed before depl
 
 ### Files
 
-* `finanicial_loan_risk.ipynb` — Complete analysis and machine learning project
+* `financial_loan_risk.ipynb` — Complete analysis and machine learning project
 * `Loan Approval Projetc Banner.png` — Project banner
